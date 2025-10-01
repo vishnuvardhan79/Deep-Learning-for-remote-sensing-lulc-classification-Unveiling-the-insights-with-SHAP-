@@ -12,7 +12,8 @@ It combines efficient CNN architectures with **Deep SHAP** interpretability to a
 - Works with remote sensing imagery datasets (e.g., EuroSAT).
 - Designed for possible extension with **Liquid Neural Networks (LNNs)** for real-time learning.
 
-##CNN Architecture
+## CNN Architecture
+
 <img width="225" height="763" alt="Screenshot 2025-10-01 192317" src="https://github.com/user-attachments/assets/cc24261e-ca09-4b93-96a5-30a9e6b904be" />
 
 
