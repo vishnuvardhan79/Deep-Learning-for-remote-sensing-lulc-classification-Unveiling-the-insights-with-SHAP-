@@ -13,7 +13,8 @@ It combines efficient CNN architectures with **Deep SHAP** interpretability to a
 - Designed for possible extension with **Liquid Neural Networks (LNNs)** for real-time learning.
 
 ##CNN Architecture
-<img width="436" height="559" alt="image" src="https://github.com/user-attachments/assets/a416cfd5-80a5-4078-a53d-c275b84f0ff8" />
+<img width="763" height="225" alt="image" src="https://github.com/user-attachments/assets/d0738b25-32d7-4b39-8eda-4757bcccc6d2" />
+
 
 
 ## Tech Stack
